@@ -1,5 +1,5 @@
-def say_hello(name)
-    return f"hello, {name}"
+def say_hello(name):
+    return f"Hello, {name}"
 
 
 if __name__ == "__main__":
